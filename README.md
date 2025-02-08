@@ -1,2 +1,2 @@
-# Sample_Testimonial_Page
- A responsive testimonial page built with HTML, CSS and JavaScript
+# Responsive Testimonial Section
+A responsive testimonial section built with HTML, CSS and Javascript.
